@@ -1,0 +1,39 @@
+.container{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+}
+.admit{
+    color: skyblue;
+    font-family: 'Gill Sans';
+    font-size:40px;
+}
+.Kard{
+    color: gray;
+    font-family: 'Gill Sans';
+    font-size:40px;
+}
+.welcome-text{
+    font-weight:600;
+    font-size:20px;
+}
+.text{
+    color:gray;
+}
+.card{
+    display:flex;
+}
+.sms-text{
+    color:gray;
+    font-size:12px;
+    padding:20px;
+}
+.button{
+    background-color:orange;
+    color:#ffffff;
+    border-radius:15px;
+    height:26px;
+    width:135px;
+    border-width:0px;
+}

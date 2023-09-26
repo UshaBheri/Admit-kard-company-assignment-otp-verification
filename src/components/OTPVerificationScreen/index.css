@@ -1,0 +1,47 @@
+.container{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+}
+.logo{
+    height:150px;
+    width:150px;
+    padding-top:20px;
+}
+.heading{
+    font-size:15px;
+    color:black;
+    font-weight:400;
+}
+.otp-text{
+    color:gray;
+    font-size:13px;
+}
+.change-number{
+    color:orange;
+    text-decoration:underline;
+    background-color:transparent;
+    border-width:0px;
+    padding-bottom:50px;
+}
+.card{
+    display:flex;
+}
+.not-send-text{
+    color:gray;
+    padding:30px;
+}
+.resend-btn{
+    color:orange;
+    background-color:transparent;
+    border-width:0px;
+}
+.button{
+    background-color:orange;
+    color:#ffffff;
+    border-radius:15px;
+    height:26px;
+    width:135px;
+    border-width:0px;
+}

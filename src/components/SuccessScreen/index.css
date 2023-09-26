@@ -1,0 +1,33 @@
+.container{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+}
+.login-img{
+    height:300px;
+    width:200px;
+}
+.heading{
+    font-size:15px;
+    font-weight:600;
+}
+.description{
+    color:gray;
+    font-size:13px;
+}
+.text{
+    font-size:12px;
+}
+.button{
+    background-color:orange;
+    color:#ffffff;
+    border-radius:15px;
+    height:26px;
+    width:135px;
+    border-width:0px;
+}
+.last-text{
+    color:gray;
+    font-size:11px;
+}
